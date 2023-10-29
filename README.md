@@ -16,7 +16,7 @@
 
 Клонировать репозиторий:
 
-    git clone https://github.com/....
+    git clone https://github.com/ronastushaaa/SkillActive
     
 Установить зависимости:
 
