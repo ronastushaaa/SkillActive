@@ -27,6 +27,3 @@
 
     npm start
 
-## **Ссылка на сайт**
-
-https://nataliarom1.github.io/mesto-react/
